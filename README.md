@@ -26,8 +26,7 @@ Pytest: Testlerin yönetilmesi ve raporlanması için.
 📦 Kurulum:
 Bağımlılıkları yükleyin:
 
-bash
-Kopyala
+
 pip install -r requirements.txt
 WebDriver'ları indirin:
 
@@ -35,11 +34,8 @@ ChromeDriver
 Edge WebDriver
 Testleri çalıştırın:
 
-bash
-Kopyala
-pytest
-🛠 Proje Yapısı:
-c
+örnek kullanım:
+pytest test.py
 
 
 
