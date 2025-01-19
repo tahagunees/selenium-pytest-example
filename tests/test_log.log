@@ -1,0 +1,250 @@
+2025-01-08 21:49:15,195 - test_checkbox_radio - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 21:50:00,328 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla baþlatýldý.
+2025-01-08 21:50:00,329 - test_checkbox_radio - INFO - Checkbox testi baþlatýldý.
+2025-01-08 21:50:00,340 - test_checkbox_radio - DEBUG - 4 adet checkbox bulundu.
+2025-01-08 21:50:00,372 - test_checkbox_radio - DEBUG - Checkbox týklandý: Shimano
+2025-01-08 21:50:00,384 - test_checkbox_radio - DEBUG - Checkbox son durumu: true
+2025-01-08 21:50:00,400 - test_checkbox_radio - DEBUG - Checkbox týklandý: Penn
+2025-01-08 21:50:00,411 - test_checkbox_radio - DEBUG - Checkbox son durumu: true
+2025-01-08 21:50:00,426 - test_checkbox_radio - DEBUG - Checkbox týklandý: Daiwa
+2025-01-08 21:50:00,435 - test_checkbox_radio - DEBUG - Checkbox son durumu: true
+2025-01-08 21:50:00,450 - test_checkbox_radio - DEBUG - Checkbox týklandý: Abu Garcia
+2025-01-08 21:50:00,458 - test_checkbox_radio - DEBUG - Checkbox son durumu: true
+2025-01-08 21:50:00,458 - test_checkbox_radio - INFO - Tüm checkbox'lar baþarýyla test edildi.
+2025-01-08 21:50:00,459 - test_checkbox_radio - INFO - Radio button testi baþlatýldý.
+2025-01-08 21:50:00,474 - test_checkbox_radio - DEBUG - 4 adet radio button bulundu.
+2025-01-08 21:50:00,494 - test_checkbox_radio - DEBUG - Radio button týklandý: r1
+2025-01-08 21:50:00,506 - test_checkbox_radio - DEBUG - Radio button son durumu: true
+2025-01-08 21:50:00,522 - test_checkbox_radio - DEBUG - Radio button týklandý: r2
+2025-01-08 21:50:00,529 - test_checkbox_radio - DEBUG - Radio button son durumu: true
+2025-01-08 21:50:00,544 - test_checkbox_radio - DEBUG - Radio button týklandý: r3
+2025-01-08 21:50:00,553 - test_checkbox_radio - DEBUG - Radio button son durumu: true
+2025-01-08 21:50:00,569 - test_checkbox_radio - DEBUG - Radio button týklandý: r4
+2025-01-08 21:50:00,578 - test_checkbox_radio - DEBUG - Radio button son durumu: true
+2025-01-08 21:50:00,578 - test_checkbox_radio - INFO - Tüm radio button'lar baþarýyla test edildi.
+2025-01-08 21:50:00,578 - test_checkbox_radio - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 21:50:02,727 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 21:50:52,219 - test_cross_browser - INFO - Chrome tarayýcýsý baþlatýlýyor...
+2025-01-08 21:51:34,186 - test_cross_browser - INFO - Chrome tarayýcýsý baþarýyla baþlatýldý.
+2025-01-08 21:51:34,187 - test_cross_browser - INFO - Web sayfasý baþlýðý testi baþlatýldý.
+2025-01-08 21:51:34,190 - test_cross_browser - INFO - Web sayfasý baþlýðý baþarýyla doðrulandý.
+2025-01-08 21:51:34,191 - test_cross_browser - INFO - Chrome tarayýcýsý kapatýlýyor...
+2025-01-08 21:51:36,493 - test_cross_browser - INFO - Chrome tarayýcýsý baþarýyla kapatýldý.
+2025-01-08 21:51:36,495 - test_cross_browser - INFO - Edge tarayýcýsý baþlatýlýyor...
+2025-01-08 21:51:59,175 - test_cross_browser - INFO - Edge tarayýcýsý baþarýyla baþlatýldý.
+2025-01-08 21:51:59,175 - test_cross_browser - INFO - Web sayfasý baþlýðý testi baþlatýldý.
+2025-01-08 21:51:59,181 - test_cross_browser - INFO - Web sayfasý baþlýðý baþarýyla doðrulandý.
+2025-01-08 21:51:59,182 - test_cross_browser - INFO - Edge tarayýcýsý kapatýlýyor...
+2025-01-08 21:52:01,326 - test_cross_browser - INFO - Edge tarayýcýsý baþarýyla kapatýldý.
+2025-01-08 21:58:38,630 - test_youtube_iframe - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 21:59:15,061 - test_youtube_iframe - INFO - Selenium WebDriver baþarýyla baþlatýldý.
+2025-01-08 21:59:15,061 - test_youtube_iframe - INFO - YouTube iframe testi baþlatýldý.
+2025-01-08 21:59:15,072 - test_youtube_iframe - DEBUG - YouTube iframe'in bulunduðu div elementi bulundu.
+2025-01-08 21:59:17,101 - test_youtube_iframe - DEBUG - YouTube iframe'e geçiþ yapýldý.
+2025-01-08 21:59:19,112 - test_youtube_iframe - DEBUG - YouTube videosu bulundu.
+2025-01-08 21:59:21,122 - test_youtube_iframe - INFO - YouTube videosu baþarýyla doðrulandý.
+2025-01-08 21:59:21,125 - test_youtube_iframe - DEBUG - Ana sayfaya geri dönüldü.
+2025-01-08 21:59:21,125 - test_youtube_iframe - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 21:59:23,456 - test_youtube_iframe - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:09:33,595 - test_checkbox_radio - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:10:42,906 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla baþlatýldý.
+2025-01-08 23:10:42,907 - test_checkbox_radio - INFO - Checkbox ve radio butonlarý testi baþlatýldý.
+2025-01-08 23:10:42,976 - test_checkbox_radio - INFO - Shimano checkbox'ýna týklandý.
+2025-01-08 23:10:45,036 - test_checkbox_radio - INFO - Penn checkbox'ýna týklandý.
+2025-01-08 23:10:47,081 - test_checkbox_radio - INFO - Daiwa checkbox'ýna týklandý.
+2025-01-08 23:10:49,130 - test_checkbox_radio - INFO - Abu Garcia checkbox'ýna týklandý.
+2025-01-08 23:10:51,191 - test_checkbox_radio - INFO - r1 radio butonuna týklandý.
+2025-01-08 23:10:53,247 - test_checkbox_radio - INFO - r2 radio butonuna týklandý.
+2025-01-08 23:10:55,306 - test_checkbox_radio - INFO - r3 radio butonuna týklandý.
+2025-01-08 23:10:57,358 - test_checkbox_radio - INFO - r4 radio butonuna týklandý.
+2025-01-08 23:10:59,360 - test_checkbox_radio - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:11:01,684 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:11:22,484 - test_checkbox_radio - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:12:11,300 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla baþlatýldý.
+2025-01-08 23:12:11,301 - test_checkbox_radio - INFO - Checkbox ve radio butonlarý testi baþlatýldý.
+2025-01-08 23:12:11,365 - test_checkbox_radio - INFO - Shimano checkbox'ýna týklandý.
+2025-01-08 23:12:13,412 - test_checkbox_radio - INFO - Penn checkbox'ýna týklandý.
+2025-01-08 23:12:15,455 - test_checkbox_radio - INFO - Daiwa checkbox'ýna týklandý.
+2025-01-08 23:12:17,504 - test_checkbox_radio - INFO - Abu Garcia checkbox'ýna týklandý.
+2025-01-08 23:12:19,556 - test_checkbox_radio - INFO - r1 radio butonuna týklandý.
+2025-01-08 23:12:21,611 - test_checkbox_radio - INFO - r2 radio butonuna týklandý.
+2025-01-08 23:12:23,662 - test_checkbox_radio - INFO - r3 radio butonuna týklandý.
+2025-01-08 23:12:25,713 - test_checkbox_radio - INFO - r4 radio butonuna týklandý.
+2025-01-08 23:12:27,715 - test_checkbox_radio - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:12:29,871 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:14:53,048 - test_checkbox_radio - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:15:29,825 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla baþlatýldý.
+2025-01-08 23:15:29,825 - test_checkbox_radio - INFO - Checkbox ve radio butonlarý testi baþlatýldý.
+2025-01-08 23:15:29,897 - test_checkbox_radio - INFO - Shimano checkbox'ýna týklandý.
+2025-01-08 23:15:31,949 - test_checkbox_radio - INFO - Penn checkbox'ýna týklandý.
+2025-01-08 23:15:33,999 - test_checkbox_radio - INFO - Daiwa checkbox'ýna týklandý.
+2025-01-08 23:15:36,046 - test_checkbox_radio - INFO - Abu Garcia checkbox'ýna týklandý.
+2025-01-08 23:15:38,105 - test_checkbox_radio - INFO - r1 radio butonuna týklandý.
+2025-01-08 23:15:40,157 - test_checkbox_radio - INFO - r2 radio butonuna týklandý.
+2025-01-08 23:15:42,208 - test_checkbox_radio - INFO - r3 radio butonuna týklandý.
+2025-01-08 23:15:44,262 - test_checkbox_radio - INFO - r4 radio butonuna týklandý.
+2025-01-08 23:15:46,263 - test_checkbox_radio - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:15:48,418 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:23:03,730 - ss - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:23:43,994 - ss - INFO - Ekran görüntüsü alma testi baþlatýldý.
+2025-01-08 23:23:46,062 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot.png konumuna kaydedildi.
+2025-01-08 23:23:46,064 - ss - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:23:48,237 - ss - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:25:28,380 - ss - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:26:24,179 - ss - INFO - Scroll ve ekran görüntüsü alma testi baþlatýldý.
+2025-01-08 23:26:26,185 - ss - INFO - Sayfanýn toplam yüksekliði: 2842
+2025-01-08 23:26:28,355 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_0.png konumuna kaydedildi.
+2025-01-08 23:26:30,449 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_800.png konumuna kaydedildi.
+2025-01-08 23:26:32,521 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_1600.png konumuna kaydedildi.
+2025-01-08 23:26:34,591 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_2400.png konumuna kaydedildi.
+2025-01-08 23:26:34,591 - ss - INFO - Tüm ekran görüntüleri alýndý.
+2025-01-08 23:26:34,591 - ss - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:26:36,930 - ss - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:32:43,606 - test_dropdown - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:33:17,859 - test_dropdown - INFO - Kategoriler butonu testi baþlatýldý.
+2025-01-08 23:33:17,889 - test_dropdown - INFO - Kategoriler butonu görünür.
+2025-01-08 23:33:17,958 - test_dropdown - INFO - Kategoriler butonuna týklandý.
+2025-01-08 23:33:19,965 - test_dropdown - INFO - Kategoriler menüsü baþarýyla açýldý.
+2025-01-08 23:33:19,966 - test_dropdown - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:33:22,075 - test_dropdown - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:39:16,209 - test_header_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:40:12,324 - test_header_elements - INFO - Arama çubuðu testi baþlatýldý.
+2025-01-08 23:40:12,416 - test_header_elements - INFO - 'spin olta' anahtar kelimesi arama çubuðuna yazýldý.
+2025-01-08 23:40:14,417 - test_header_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:40:16,565 - test_header_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:46:23,837 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:47:20,299 - test_web_elements - INFO - Buton týklama testi baþlatýldý.
+2025-01-08 23:47:29,436 - test_web_elements - ERROR - Buton týklama testi sýrasýnda hata oluþtu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6710AFB05+28789]
+	(No symbol) [0x00007FF6710186E0]
+	(No symbol) [0x00007FF670EB592A]
+	(No symbol) [0x00007FF670E8F505]
+	(No symbol) [0x00007FF670F36477]
+	(No symbol) [0x00007FF670F4EF42]
+	(No symbol) [0x00007FF670F2F1E3]
+	(No symbol) [0x00007FF670EFA938]
+	(No symbol) [0x00007FF670EFBAA1]
+	GetHandleVerifier [0x00007FF6713E933D+3410093]
+	GetHandleVerifier [0x00007FF6713FE7DD+3497293]
+	GetHandleVerifier [0x00007FF6713F2A73+3448803]
+	GetHandleVerifier [0x00007FF671177BBB+848171]
+	(No symbol) [0x00007FF671023C3F]
+	(No symbol) [0x00007FF67101F6E4]
+	(No symbol) [0x00007FF67101F87D]
+	(No symbol) [0x00007FF67100ED49]
+	BaseThreadInitThunk [0x00007FF868AE259D+29]
+	RtlUserThreadStart [0x00007FF86932AF38+40]
+
+2025-01-08 23:47:29,540 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:47:31,577 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:47:39,378 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:48:46,102 - test_web_elements - INFO - Buton týklama testi baþlatýldý.
+2025-01-08 23:48:46,193 - test_web_elements - INFO - Kategoriler butonuna týklandý.
+2025-01-08 23:48:48,207 - test_web_elements - ERROR - Buton týklama testi sýrasýnda hata oluþtu: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6710AFB05+28789]
+	(No symbol) [0x00007FF6710186E0]
+	(No symbol) [0x00007FF670EB592A]
+	(No symbol) [0x00007FF670EBC48F]
+	(No symbol) [0x00007FF670EBF13C]
+	(No symbol) [0x00007FF670EBF20F]
+	(No symbol) [0x00007FF670F08DBA]
+	(No symbol) [0x00007FF670F095FC]
+	(No symbol) [0x00007FF670F528A7]
+	(No symbol) [0x00007FF670F2F47F]
+	(No symbol) [0x00007FF670F4F654]
+	(No symbol) [0x00007FF670F2F1E3]
+	(No symbol) [0x00007FF670EFA938]
+	(No symbol) [0x00007FF670EFBAA1]
+	GetHandleVerifier [0x00007FF6713E933D+3410093]
+	GetHandleVerifier [0x00007FF6713FE7DD+3497293]
+	GetHandleVerifier [0x00007FF6713F2A73+3448803]
+	GetHandleVerifier [0x00007FF671177BBB+848171]
+	(No symbol) [0x00007FF671023C3F]
+	(No symbol) [0x00007FF67101F6E4]
+	(No symbol) [0x00007FF67101F87D]
+	(No symbol) [0x00007FF67100ED49]
+	BaseThreadInitThunk [0x00007FF868AE259D+29]
+	RtlUserThreadStart [0x00007FF86932AF38+40]
+
+2025-01-08 23:48:48,300 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:48:50,594 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:50:00,087 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:51:00,126 - test_web_elements - INFO - Buton týklama testi baþlatýldý.
+2025-01-08 23:51:20,419 - test_web_elements - ERROR - Buton týklama testi sýrasýnda hata oluþtu: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6710AFB05+28789]
+	(No symbol) [0x00007FF6710186E0]
+	(No symbol) [0x00007FF670EB592A]
+	(No symbol) [0x00007FF670F0930E]
+	(No symbol) [0x00007FF670F095FC]
+	(No symbol) [0x00007FF670F528A7]
+	(No symbol) [0x00007FF670F2F47F]
+	(No symbol) [0x00007FF670F4F654]
+	(No symbol) [0x00007FF670F2F1E3]
+	(No symbol) [0x00007FF670EFA938]
+	(No symbol) [0x00007FF670EFBAA1]
+	GetHandleVerifier [0x00007FF6713E933D+3410093]
+	GetHandleVerifier [0x00007FF6713FE7DD+3497293]
+	GetHandleVerifier [0x00007FF6713F2A73+3448803]
+	GetHandleVerifier [0x00007FF671177BBB+848171]
+	(No symbol) [0x00007FF671023C3F]
+	(No symbol) [0x00007FF67101F6E4]
+	(No symbol) [0x00007FF67101F87D]
+	(No symbol) [0x00007FF67100ED49]
+	BaseThreadInitThunk [0x00007FF868AE259D+29]
+	RtlUserThreadStart [0x00007FF86932AF38+40]
+
+2025-01-08 23:51:20,490 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:51:22,657 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:55:50,970 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:57:07,949 - test_web_elements - INFO - Butonlara týklama testi baþlatýldý.
+2025-01-08 23:57:08,019 - test_web_elements - INFO - Artý butonuna týklandý.
+2025-01-08 23:57:10,090 - test_web_elements - INFO - Sepete Ekle butonuna týklandý.
+2025-01-08 23:57:12,159 - test_web_elements - INFO - Alýþveriþ Sepeti butonuna týklandý.
+2025-01-08 23:57:12,160 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:57:14,485 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-08 23:57:20,960 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-08 23:58:00,965 - test_web_elements - INFO - Butonlara týklama testi baþlatýldý.
+2025-01-08 23:58:01,048 - test_web_elements - INFO - Artý butonuna týklandý.
+2025-01-08 23:58:03,117 - test_web_elements - INFO - Sepete Ekle butonuna týklandý.
+2025-01-08 23:58:05,181 - test_web_elements - INFO - Alýþveriþ Sepeti butonuna týklandý.
+2025-01-08 23:58:05,182 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-08 23:58:07,562 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 00:00:01,732 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 00:00:58,399 - test_web_elements - INFO - Butonlara týklama testi baþlatýldý.
+2025-01-09 00:00:58,486 - test_web_elements - INFO - Artý butonuna týklandý.
+2025-01-09 00:01:00,562 - test_web_elements - INFO - Sepete Ekle butonuna týklandý.
+2025-01-09 00:01:02,649 - test_web_elements - INFO - Alýþveriþ Sepeti butonuna týklandý.
+2025-01-09 00:01:04,651 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 00:01:07,013 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 00:01:23,706 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 00:02:11,399 - test_web_elements - INFO - Butonlara týklama testi baþlatýldý.
+2025-01-09 00:02:11,486 - test_web_elements - INFO - Artý butonuna týklandý.
+2025-01-09 00:02:13,562 - test_web_elements - INFO - Sepete Ekle butonuna týklandý.
+2025-01-09 00:02:15,655 - test_web_elements - INFO - Alýþveriþ Sepeti butonuna týklandý.
+2025-01-09 00:02:20,656 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 00:02:23,026 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 00:10:09,864 - test_youtube_iframe - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 00:11:59,505 - test_youtube_iframe - INFO - Iframe içindeki YouTube videosu testi baþlatýldý.
+2025-01-09 00:11:59,536 - test_youtube_iframe - INFO - Iframe'e geçiþ yapýldý.
+2025-01-09 00:12:01,542 - test_youtube_iframe - INFO - YouTube video baþlýðý: FLY TV - Dry Fly Fishing & Rising Trout in Norway - YouTube
+2025-01-09 00:12:01,734 - test_youtube_iframe - INFO - YouTube videosu oynatýldý.
+2025-01-09 00:12:06,738 - test_youtube_iframe - INFO - Ana sayfaya geri dönüldü.
+2025-01-09 00:12:06,739 - test_youtube_iframe - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 00:12:09,106 - test_youtube_iframe - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 11:21:16,359 - ss - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 11:21:18,655 - ss - INFO - Scroll ve ekran görüntüsü alma testi baþlatýldý.
+2025-01-09 11:21:20,667 - ss - INFO - Sayfanýn toplam yüksekliði: 2842
+2025-01-09 11:21:22,870 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_0.png konumuna kaydedildi.
+2025-01-09 11:21:25,030 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_800.png konumuna kaydedildi.
+2025-01-09 11:21:27,179 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_1600.png konumuna kaydedildi.
+2025-01-09 11:21:29,288 - ss - INFO - Ekran görüntüsü alýndý ve C:\Users\Taha\Desktop\test\tests\screenshot_2400.png konumuna kaydedildi.
+2025-01-09 11:21:29,289 - ss - INFO - Tüm ekran görüntüleri alýndý.
+2025-01-09 11:21:29,289 - ss - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 11:21:31,669 - ss - INFO - Selenium WebDriver baþarýyla kapatýldý.

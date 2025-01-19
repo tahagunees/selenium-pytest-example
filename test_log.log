@@ -1,0 +1,133 @@
+2025-01-09 09:48:07,677 - test_checkbox_radio - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 09:48:07,677 - test_cross_browser - INFO - Edge tarayýcýsý baþlatýlýyor...
+2025-01-09 09:48:07,678 - test_cross_browser - INFO - Chrome tarayýcýsý baþlatýlýyor...
+2025-01-09 09:48:07,678 - test_dropdown - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 09:48:42,440 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla baþlatýldý.
+2025-01-09 09:48:42,443 - test_checkbox_radio - INFO - Checkbox ve radio butonlarý testi baþlatýldý.
+2025-01-09 09:48:42,443 - test_cross_browser - INFO - Edge tarayýcýsý baþarýyla baþlatýldý.
+2025-01-09 09:48:42,446 - test_cross_browser - INFO - Web sayfasý baþlýðý testi baþlatýldý.
+2025-01-09 09:48:42,456 - test_cross_browser - INFO - Web sayfasý baþlýðý baþarýyla doðrulandý.
+2025-01-09 09:48:42,456 - test_cross_browser - INFO - Chrome tarayýcýsý baþarýyla baþlatýldý.
+2025-01-09 09:48:42,457 - test_cross_browser - INFO - Edge tarayýcýsý kapatýlýyor...
+2025-01-09 09:48:42,458 - test_cross_browser - INFO - Web sayfasý baþlýðý testi baþlatýldý.
+2025-01-09 09:48:42,480 - test_cross_browser - INFO - Web sayfasý baþlýðý baþarýyla doðrulandý.
+2025-01-09 09:48:42,481 - test_cross_browser - INFO - Chrome tarayýcýsý kapatýlýyor...
+2025-01-09 09:48:44,646 - test_cross_browser - INFO - Edge tarayýcýsý baþarýyla kapatýldý.
+
+2025-01-09 09:48:44,648 - test_youtube_iframe - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 09:48:44,648 - test_web_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 09:49:02,782 - test_checkbox_radio - ERROR - Checkbox ve radio butonlarý testi sýrasýnda hata oluþtu: Message: 
+
+2025-01-09 09:49:02,877 - test_checkbox_radio - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 09:49:04,997 - test_checkbox_radio - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 09:49:04,998 - test_header_elements - INFO - Selenium WebDriver baþlatýlýyor...
+2025-01-09 09:49:12,408 - test_youtube_iframe - INFO - Iframe içindeki YouTube videosu testi baþlatýldý.
+2025-01-09 09:49:12,437 - test_youtube_iframe - INFO - Iframe'e geçiþ yapýldý.
+2025-01-09 09:49:14,444 - test_youtube_iframe - INFO - YouTube video baþlýðý: www.youtube.com
+2025-01-09 09:49:17,974 - test_header_elements - INFO - Arama çubuðu testi baþlatýldý.
+2025-01-09 09:49:17,976 - test_header_elements - ERROR - Arama çubuðu testi sýrasýnda hata oluþtu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF60E91FB05+28789]
+	(No symbol) [0x00007FF60E8886E0]
+	(No symbol) [0x00007FF60E72592A]
+	(No symbol) [0x00007FF60E6FF505]
+	(No symbol) [0x00007FF60E7A6477]
+	(No symbol) [0x00007FF60E7BEF42]
+	(No symbol) [0x00007FF60E79F1E3]
+	(No symbol) [0x00007FF60E76A938]
+	(No symbol) [0x00007FF60E76BAA1]
+	GetHandleVerifier [0x00007FF60EC5933D+3410093]
+	GetHandleVerifier [0x00007FF60EC6E7DD+3497293]
+	GetHandleVerifier [0x00007FF60EC62A73+3448803]
+	GetHandleVerifier [0x00007FF60E9E7BBB+848171]
+	(No symbol) [0x00007FF60E893C3F]
+	(No symbol) [0x00007FF60E88F6E4]
+	(No symbol) [0x00007FF60E88F87D]
+	(No symbol) [0x00007FF60E87ED49]
+	BaseThreadInitThunk [0x00007FF868AE259D+29]
+	RtlUserThreadStart [0x00007FF86932AF38+40]
+
+2025-01-09 09:49:18,024 - test_header_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 09:49:19,022 - test_youtube_iframe - ERROR - Iframe içindeki YouTube videosu testi sýrasýnda hata oluþtu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF60E91FB05+28789]
+	(No symbol) [0x00007FF60E8886E0]
+	(No symbol) [0x00007FF60E72592A]
+	(No symbol) [0x00007FF60E6FF505]
+	(No symbol) [0x00007FF60E7A6477]
+	(No symbol) [0x00007FF60E7BEF42]
+	(No symbol) [0x00007FF60E79F1E3]
+	(No symbol) [0x00007FF60E76A938]
+	(No symbol) [0x00007FF60E76BAA1]
+	GetHandleVerifier [0x00007FF60EC5933D+3410093]
+	GetHandleVerifier [0x00007FF60EC6E7DD+3497293]
+	GetHandleVerifier [0x00007FF60EC62A73+3448803]
+	GetHandleVerifier [0x00007FF60E9E7BBB+848171]
+	(No symbol) [0x00007FF60E893C3F]
+	(No symbol) [0x00007FF60E88F6E4]
+	(No symbol) [0x00007FF60E88F87D]
+	(No symbol) [0x00007FF60E87ED49]
+	BaseThreadInitThunk [0x00007FF868AE259D+29]
+	RtlUserThreadStart [0x00007FF86932AF38+40]
+
+2025-01-09 09:49:20,101 - test_header_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 09:49:23,215 - test_youtube_iframe - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 09:49:25,272 - test_youtube_iframe - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 09:49:27,064 - test_web_elements - INFO - Butonlara týklama testi baþlatýldý.
+2025-01-09 09:49:27,066 - test_web_elements - ERROR - Butonlara týklama testi sýrasýnda hata oluþtu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF60E91FB05+28789]
+	(No symbol) [0x00007FF60E8886E0]
+	(No symbol) [0x00007FF60E72592A]
+	(No symbol) [0x00007FF60E6FF505]
+	(No symbol) [0x00007FF60E7A6477]
+	(No symbol) [0x00007FF60E7BEF42]
+	(No symbol) [0x00007FF60E79F1E3]
+	(No symbol) [0x00007FF60E76A938]
+	(No symbol) [0x00007FF60E76BAA1]
+	GetHandleVerifier [0x00007FF60EC5933D+3410093]
+	GetHandleVerifier [0x00007FF60EC6E7DD+3497293]
+	GetHandleVerifier [0x00007FF60EC62A73+3448803]
+	GetHandleVerifier [0x00007FF60E9E7BBB+848171]
+	(No symbol) [0x00007FF60E893C3F]
+	(No symbol) [0x00007FF60E88F6E4]
+	(No symbol) [0x00007FF60E88F87D]
+	(No symbol) [0x00007FF60E87ED49]
+	BaseThreadInitThunk [0x00007FF868AE259D+29]
+	RtlUserThreadStart [0x00007FF86932AF38+40]
+
+2025-01-09 09:49:30,122 - test_dropdown - INFO - Kategoriler butonu testi baþlatýldý.
+2025-01-09 09:49:30,146 - test_dropdown - ERROR - Kategoriler butonu testi sýrasýnda hata oluþtu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF60E91FB05+28789]
+	(No symbol) [0x00007FF60E8886E0]
+	(No symbol) [0x00007FF60E72592A]
+	(No symbol) [0x00007FF60E6FF505]
+	(No symbol) [0x00007FF60E7A6477]
+	(No symbol) [0x00007FF60E7BEF42]
+	(No symbol) [0x00007FF60E79F1E3]
+	(No symbol) [0x00007FF60E76A938]
+	(No symbol) [0x00007FF60E76BAA1]
+	GetHandleVerifier [0x00007FF60EC5933D+3410093]
+	GetHandleVerifier [0x00007FF60EC6E7DD+3497293]
+	GetHandleVerifier [0x00007FF60EC62A73+3448803]
+	GetHandleVerifier [0x00007FF60E9E7BBB+848171]
+	(No symbol) [0x00007FF60E893C3F]
+	(No symbol) [0x00007FF60E88F6E4]
+	(No symbol) [0x00007FF60E88F87D]
+	(No symbol) [0x00007FF60E87ED49]
+	BaseThreadInitThunk [0x00007FF868AE259D+29]
+	RtlUserThreadStart [0x00007FF86932AF38+40]
+
+2025-01-09 09:49:30,298 - test_dropdown - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 09:49:31,262 - test_web_elements - INFO - Selenium WebDriver kapatýlýyor...
+2025-01-09 09:49:32,388 - test_dropdown - INFO - Selenium WebDriver baþarýyla kapatýldý.
+2025-01-09 09:49:33,319 - test_web_elements - INFO - Selenium WebDriver baþarýyla kapatýldý.
